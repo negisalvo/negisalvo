@@ -4,6 +4,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;IT+Student;JavaScript+Enthusiast;Building+Modern+Web+Apps;Always+Learning+New+Technologies" />
 </p>
+
+## 🚀 About Me
+
+🎓 IT Student passionate about technology and software development.
+
+💻 Frontend Developer with strong skills in building modern,responsive,and user-friendly web applications.
+
+🌱 Currently learning advanced web development, mobile app development, and software engineering.
+
+🎯 Goal: To become a Full-Stack Developer and contribute to impactful projects.
+
+----
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,react,java,cs" />
 </p>
@@ -12,16 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=negisalvo&color=blue)
 
-## 🚀 About Me
-🎓 IT Student passionate about technology and software development.
 
-💻 Frontend Developer with strong skills in building modern, responsive, and user-friendly web applications.
-
-🌱 Currently learning advanced web development, mobile app development, and software engineering.
-
-🎯 Goal: To become a Full-Stack Developer and contribute to impactful projects.
-
----
 
 ## 🛠️ Tech Stack
 
